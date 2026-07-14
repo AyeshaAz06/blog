@@ -4,7 +4,7 @@ title: "5 Writing Tips That Instantly Improve Your Content"
 date: 2026-07-14
 ---
 
-Y# 5 Writing Tips That Instantly Improve Your Content
+# 5 Writing Tips That Instantly Improve Your Content
 
 ## 1. Start with the Main Point
 
